@@ -1,4 +1,5 @@
 ### 🦊 Graphics Programmer and Technical Artist | 🧠 AR/VR Dev (ex Snap)
+---
 
 🔭 I’m currently working on:
  - **Dynamic Snow System** for Unreal Engine, inspired by Dark Souls 2
