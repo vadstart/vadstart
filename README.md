@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on:
  - **Dynamic Snow System** for Unreal Engine (inspired by Dark Souls 2)
- - **Oozemancer**, VR puzzle game (Unreal Engine, Game Jam)
+ - **Dark Waters 1.0**, a Remaster of a Boss Rush action game (Unity, Game Jam)
  - **NoctuaryRL** alpha, modern fantasy detective RPG (Unreal Engine, procedural narrative)
 
 🌱 I’m currently learning:
